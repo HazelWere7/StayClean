@@ -1,0 +1,2 @@
+# StayClean
+Garbage management system
